@@ -1,7 +1,9 @@
 
 # Solutions to Leetcode problems.
 
-The links are for Youtube videos showing how I solved these problems.
+Checkout my Leetcode playlist to see how I solved these problems.
+
+https://www.youtube.com/playlist?list=PLTMybUaeagJZ1trl34oXsnqjcL9wIxbk3
 
 ## Problems
 37. Sudoku Solver (Hard)  
