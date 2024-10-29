@@ -6,6 +6,10 @@ Checkout my Leetcode playlist to see how I solved these problems.
 https://www.youtube.com/playlist?list=PLTMybUaeagJZ1trl34oXsnqjcL9wIxbk3
 
 ## Problems
+
+1. Two Sum https://www.youtube.com/watch?v=qBRb8vf6N00
+2. Add Two Numbers https://www.youtube.com/watch?v=mm5e0Ybq1dU
+3. Longest Substring without repeating characters https://www.youtube.com/watch?v=j9GqVmiEj5Y
 37. Sudoku Solver (Hard)  https://www.youtube.com/watch?v=LnHYpOr8pjw
 
 
